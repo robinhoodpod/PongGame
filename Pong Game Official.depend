@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1746344792 source:d:\ltnc\pong game official\main.cpp
+	"graphics.h"
+	"logic.h"
+	<SDL_mixer.h>
+	<iostream>
+
+1746344431 d:\ltnc\pong game official\graphics.h
+	"defs.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1744228274 d:\ltnc\pong game official\defs.h
+
+1746344792 d:\ltnc\pong game official\logic.h
+	"defs.h"
+
+1746348264 source:d:\ltnc\ponggame\pong game official\main.cpp
+	"graphics.hpp"
+	"logic.hpp"
+	<SDL_mixer.h>
+	<iostream>
+
+1746344431 d:\ltnc\ponggame\pong game official\graphics.h
+	"defs.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1744228274 d:\ltnc\ponggame\pong game official\defs.h
+
+1746344792 d:\ltnc\ponggame\pong game official\logic.h
+	"defs.h"
+
+1746348264 d:\ltnc\ponggame\pong game official\graphics.hpp
+	"defs.hpp"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1746348264 d:\ltnc\ponggame\pong game official\defs.hpp
+
+1746348264 d:\ltnc\ponggame\pong game official\logic.hpp
+	"defs.hpp"
+
